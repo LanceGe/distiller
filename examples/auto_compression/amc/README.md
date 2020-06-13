@@ -1,6 +1,6 @@
 # AMC: AutoML for Model Compression and Acceleration on Mobile Devices
 
-This is a loose implementation of AMC, that allows you to change models and agents and use Jupyter notebooks to examine the learning process in detail.  However details may note exactly match the [implementation](https://github.com/mit-han-lab/amc-compressed-models) from the original paper.
+This is a loose implementation of AMC, that allows you to change models and agents and use Jupyter notebooks to examine the learning process in detail.  However details may not exactly match the [implementation](https://github.com/mit-han-lab/amc-compressed-models) from the original paper.
 
 Caveats: 
 - This is still a WiP and some information is still missing, such as setup instruction and further documentation.  These will be added with time.
